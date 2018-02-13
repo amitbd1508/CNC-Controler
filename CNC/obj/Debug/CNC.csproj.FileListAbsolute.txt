@@ -1,0 +1,10 @@
+c:\users\amit\source\repos\CNC\CNC\bin\Debug\CNC.exe.config
+c:\users\amit\source\repos\CNC\CNC\bin\Debug\CNC.exe
+c:\users\amit\source\repos\CNC\CNC\bin\Debug\CNC.pdb
+c:\users\amit\source\repos\CNC\CNC\obj\Debug\CNC.csprojResolveAssemblyReference.cache
+c:\users\amit\source\repos\CNC\CNC\obj\Debug\CNC.Properties.Resources.resources
+c:\users\amit\source\repos\CNC\CNC\obj\Debug\CNC.csproj.GenerateResource.Cache
+c:\users\amit\source\repos\CNC\CNC\obj\Debug\CNC.csproj.CoreCompileInputs.cache
+c:\users\amit\source\repos\CNC\CNC\obj\Debug\CNC.exe
+c:\users\amit\source\repos\CNC\CNC\obj\Debug\CNC.pdb
+C:\Users\Amit\source\repos\CNC\CNC\obj\Debug\CNC.MDIParent.resources
